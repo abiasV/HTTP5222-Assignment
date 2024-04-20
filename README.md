@@ -14,7 +14,7 @@
    - Dashboard for sellers to manage their hotel listings and bookings
    - Dashboard for buyers to view their bookings and browse hotels
 
-**The website is built using React, Redux, and MongoDB, with a Node.js backend. It uses React Router for client-side routing and React Toastify for displaying notifications.**
+**The website is built using ###React, Redux, and MongoDB, with a Node.js backend###. It uses React Router for client-side routing and React Toastify for displaying notifications.**
 
 ## Installation
 1. Clone this repository: ```git clone https://github.com/abiasV/HTTP5222-Assignment.git```
