@@ -28,3 +28,15 @@
 ## Live Website
 
 ![screenshot](_readme/Screenshot-1-2024-04-19.png)
+
+![screenshot](_readme/Screenshot-2-2024-04-19.png)
+
+![screenshot](_readme/Screenshot-3-2024-04-19.png)
+
+![screenshot](_readme/Screenshot-4-2024-04-19.png)
+
+![screenshot](_readme/Screenshot-5-2024-04-19.png)
+
+![screenshot](_readme/Screenshot-6-2024-04-19.png)
+
+
